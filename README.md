@@ -17,13 +17,16 @@ III) Get the sine-wave response of (you can create a node that will send a sine-
 
 ### Screenshots
 1) Sine-wave end-effector response graph
-![alt text](https://imgur.com/a/Z5nb2DO)
+
+![photo1663576893 (2)](https://user-images.githubusercontent.com/111846468/190983851-23ebf0e2-601a-4aa8-a21c-8785620bef4a.jpeg
 
 2) Sine-wave base joint response graph
-![alt text](http://url/to/img.png)
+
+![photo1663576893 (3)](https://user-images.githubusercontent.com/111846468/190983951-a81ab06e-db51-47cf-9d1e-2420b8b87bed.jpeg)
 
 3) Step end-effector response graph
-![alt text](http://url/to/img.png)
+
+![photo1663576893 (4)](https://user-images.githubusercontent.com/111846468/190984017-9094006a-8179-495b-9aa2-a877128e69d2.jpeg)
 
 4) Step base joint response graph
 
