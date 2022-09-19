@@ -18,7 +18,7 @@ III) Get the sine-wave response of (you can create a node that will send a sine-
 ### Screenshots
 1) Sine-wave end-effector response graph
 
-![photo1663576893 (2)](https://user-images.githubusercontent.com/111846468/190983851-23ebf0e2-601a-4aa8-a21c-8785620bef4a.jpeg
+![photo1663576893 (6)](https://user-images.githubusercontent.com/111846468/190984678-15256123-49da-4aa4-8f73-be0151c7b498.jpeg)
 
 2) Sine-wave base joint response graph
 
@@ -26,7 +26,7 @@ III) Get the sine-wave response of (you can create a node that will send a sine-
 
 3) Step end-effector response graph
 
-![photo1663576893 (4)](https://user-images.githubusercontent.com/111846468/190984017-9094006a-8179-495b-9aa2-a877128e69d2.jpeg)
+![photo1663576893 (5)](https://user-images.githubusercontent.com/111846468/190984442-1cd18f7c-13d9-4632-b317-106b6d5066d1.jpeg)
 
 4) Step base joint response graph
 
