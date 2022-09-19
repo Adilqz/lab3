@@ -26,5 +26,6 @@ III) Get the sine-wave response of (you can create a node that will send a sine-
 ![alt text](http://url/to/img.png)
 
 4) Step base joint response graph
-![ggwp](https://imgur.com/a/wL7cwwb)
+
+![photo1663576893 (1)](https://user-images.githubusercontent.com/111846468/190982807-57ede8d7-c517-431c-948f-d2e7edc5ea3a.jpeg)
 
