@@ -6,6 +6,10 @@
 
 Provide figures with names to every task.
 
+### Video explanation of the code
+
+https://user-images.githubusercontent.com/111846468/191035433-bb644b7c-d26d-4171-ad66-1f65b0d9fe5a.MOV
+
 ### Screenshots
 #### 1) Sine-wave end-effector response graph
 
