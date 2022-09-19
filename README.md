@@ -1,34 +1,52 @@
 # ROBT 403 Laboratory
 
-## Lab Assignment 3 Task 1 - Joint movement of the planar robot
-#### TASK: 
+## Lab Assignment 3 Task 1 - Step and sine wave response of the planar robot
 
-Create a rosnode that will “listen” for std_msgs/Float64 type data and “publish” this data to the joint of the planar robot. The node should send the command to move if the any new incoming value is lower than the previous one.
-
-### Video demonstration
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Vl6NuoXFQks)
-
-## Lab Assignment 3 Task 2 - Step and sine wave response of the planar robot
 #### TASK:
 
-II) Get the step response of (you can create a node that will send a square-wave function): 1.the joint at the base of the robot 2.the joint at the end-effector of the robot
-
-III) Get the sine-wave response of (you can create a node that will send a sine-wave function): 3.the joint at the base of the robot 4.the joint at the end-effector of the robot
+Provide figures with names to every task.
 
 ### Screenshots
-1) Sine-wave end-effector response graph
+#### 1) Sine-wave end-effector response graph
 
 ![photo1663576893 (6)](https://user-images.githubusercontent.com/111846468/190984678-15256123-49da-4aa4-8f73-be0151c7b498.jpeg)
 
-2) Sine-wave base joint response graph
+#### 2) Sine-wave base joint response graph
 
 ![photo1663576893 (3)](https://user-images.githubusercontent.com/111846468/190983951-a81ab06e-db51-47cf-9d1e-2420b8b87bed.jpeg)
 
-3) Step end-effector response graph
+#### 3) Step end-effector response graph
 
 ![photo1663576893 (5)](https://user-images.githubusercontent.com/111846468/190984442-1cd18f7c-13d9-4632-b317-106b6d5066d1.jpeg)
 
-4) Step base joint response graph
+#### 4) Step base joint response graph
 
 ![photo1663576893 (1)](https://user-images.githubusercontent.com/111846468/190982807-57ede8d7-c517-431c-948f-d2e7edc5ea3a.jpeg)
+
+## Lab Assignment 3 Task 2 - Joint movement of the planar robot
+
+#### TASK: 
+
+Provide short video of your code explained and of the robot than moves.
+
+### Videos
+#### 1) Sine-wave end-effector response video
+
+https://user-images.githubusercontent.com/111846468/191025094-52c094c7-e628-4855-8040-113e34115285.MOV
+
+#### 2) Sine-wave base joint response video
+
+https://user-images.githubusercontent.com/111846468/191025280-e9ece018-f94c-423e-9b16-4a38b2396494.MOV
+
+#### 3) Step end-effector response video
+
+
+
+#### 4) Step base joint response video
+
+https://user-images.githubusercontent.com/111846468/191024649-cc78b26a-cb4b-4dd4-a7bd-c27c6923b70e.MOV
+
+
+
+
 
