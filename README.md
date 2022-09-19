@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/111846468/191025280-e9ece018-f94c-423e
 
 #### 3) Step end-effector response video
 
-
+https://user-images.githubusercontent.com/111846468/191031741-579a0b23-6ad7-4687-a259-df608d17bdcb.MOV
 
 #### 4) Step base joint response video
 
